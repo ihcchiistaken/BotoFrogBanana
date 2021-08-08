@@ -1,0 +1,45 @@
+Boto = rock
+Frog = scissors
+Banana = paper
+
+
+
+Boto beats Frog
+boto loses to Banana
+
+
+
+forg beats Banana
+frog loses boto
+
+
+
+banana beats boto
+banana loses to frog
+
+function -
+determine winner/loser/tie
+
+* function - 
+User card movement
+
+function -
+CPU card movement
+
+function - 
+highlight chosen card
+
+function - 
+show winner text
+
+function - 
+reset
+
+function -
+point system
+
+* function - 
+battle music
+
+
+
