@@ -13,7 +13,7 @@ function moveUserCardToTable(card){
         let table = document.querySelector(".cardTable")
         table.appendChild(card);
 
-        moveUserCardToTable();
+        moveCPUCardToTable();
 
         isCardOnTable = true;
 
